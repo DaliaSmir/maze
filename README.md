@@ -5,4 +5,4 @@ At any point of failure print a relevant message, exit the game and free allocat
 Part of the task is to understand the existing code.  
 **There is no need to change the files terminal.c and Makefile, only maze.h and maze.c.**  
 
-For the complete instruction document, you can read the Assignment5.pdf document.
+For the complete instruction document, you can read the Assignment5.pdf (question no. 3) document.
